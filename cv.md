@@ -42,10 +42,7 @@ I am a student at Brest State Technical University (BrSTU). I am focusing on web
 - English: Elementary (A2)
 - Polish: Elementary (A2)
 
-### Coding Example
-
 `javascript
 // Simple JavaScript program that prints a greeting
 const name = "Maksim";
 console.log("Hello! My name is " + name + ".");
-`
